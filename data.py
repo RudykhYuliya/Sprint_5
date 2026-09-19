@@ -1,0 +1,8 @@
+BASE_URL = 'https://qa-desk.education-services.ru/'
+PASSWORD = 'Qwerty123'
+USER_NAME = 'User.'
+INVALID_EMAIL = 'not-an-email'
+AD_DESCRIPTION = 'Тестовое описание товара'
+AD_PRICE = '1500'
+AD_CATEGORY = 'Книги'
+AD_CITY = 'Казань'
